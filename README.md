@@ -9,7 +9,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=villiasdev)](https://github.com/anuraghazra/github-readme-stats)
-
+[![VilliasDevs's GitHub stats](https://github-readme-stats.vercel.app/api?username=VilliasDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ![VilliasDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=villiasdev&show_icons=true&theme=radical)
