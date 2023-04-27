@@ -3,10 +3,7 @@
 
 👋 Hello! My name is Villias, and I am a member of the FusionForge team!
 
-💻 I am a C, C++, Java and web developer.
-
-🔨 I also like to develop Software.
-
+💻 I am a C, C++, x86 Assembly, Java and PHP developer 🔨.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=villiasdev)](https://github.com/anuraghazra/github-readme-stats)
