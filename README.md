@@ -1,1 +1,42 @@
 
+
+## Villias  🔨
+---
+
+
+
+<pre>
+   .----.
+   |C>_ |
+ __|____|__
+|  ______--|
+`-/.::::.\-'a
+ `--------'
+</pre>
+
+---
+
+<details open="true">
+    <summary>Who am I? 😕</summary>
+    <h3>I am just a programmer that pretends to know what he is doing. 🤓</h3>
+</details>
+
+<details open="true">
+    <summary>Stats</summary>
+
+![VilliasDev stats](https://github-readme-stats.vercel.app/api?username=VilliasDev&show_icons=true&theme=gruvbox)
+</details>
+
+<details>
+    <summary>Experience 💯</summary>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="left" width="30px" style="padding-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" align="left" width="30" style="padding-right:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" align="left" width="30" style="padding-right:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" align="left" width="30" style="padding-right:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="left" width="30" style="padding-right:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="left" width="30" style="padding-right:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="left" width="30px" style="padding-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" align="left" width="30px" style="padding-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" align="left" width="30px" style="padding-right:10px;"/>
+</details>
