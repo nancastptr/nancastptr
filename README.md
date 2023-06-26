@@ -25,6 +25,8 @@
     <summary>Stats</summary>
 
 ![VilliasDev stats](https://github-readme-stats.vercel.app/api?username=VilliasDev&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VilliasDev&layout=pie)](https://github.com/VilliasDev/github-readme-stats)
 </details>
 
 <details>
