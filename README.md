@@ -1,10 +1,5 @@
-
-
 ## Villias  🔨
 ---
-
-
-
 <pre>
    .----.
    |C>_ |
@@ -13,21 +8,16 @@
 `-/.::::.\-'a
  `--------'
 </pre>
-
 ---
 
 <details open="true">
     <summary>Who am I? 😕</summary>
-    <h3>I am just a programmer that pretends to know what he is doing. 🤓</h3>
+    <h3>I am merely a humble programmer, oscillating between profound insights and comical blunders in the vast landscape of code. 🤓</h3>
 </details>
-
 <details open="true">
-    <summary>Stats</summary>
-
+<summary>Stats</summary>
 ![VilliasDev stats](https://github-readme-stats.vercel.app/api?username=VilliasDev&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VilliasDev&layout=pie&theme=gruvbox)](https://github.com/VilliasDev/github-readme-stats)
-
-
 </details>
 
 <details>
