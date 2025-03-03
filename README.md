@@ -19,8 +19,8 @@
 <details open="false">
     <summary>Stats</summary>
 
-   ![teabean stats](https://github-readme-stats.vercel.app/api?username=teabeen&show_icons=true&theme=gruvbox)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teabeen&layout=pie&theme=gruvbox)](https://github.com/VilliasDev/github-readme-stats)
+   ![teabean stats](https://github-readme-stats.vercel.app/api?username=nancastptr&show_icons=true&theme=gruvbox)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nancastptr&layout=pie&theme=gruvbox)](https://github.com/VilliasDev/github-readme-stats)
 
 
 </details>
